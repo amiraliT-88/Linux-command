@@ -1,13 +1,20 @@
-# Linux Command
+# Linux Commands Cheat Sheet
 
-## Installation
+A clean, dark-themed HTML reference guide and cheat sheet covering essential Linux commands, flags, and utilities.
 
-To install the command globally, run the following:
+## Overview
+This reference guide organizes frequently used Linux commands into practical categories (file manipulation, system monitoring, permissions, networking, and package management) for quick offline/online lookup.
 
-```sh
+## How to Use
+Simply clone the repository and open `index.html` in your favorite web browser:
+
+```bash
 git clone https://github.com/amiraliT-88/Linux-command.git
 cd Linux-command
-chmod +x mycommand.sh
-sudo mv mycommand.sh /usr/local/bin/mycommand
 
+# Open on Windows
+start index.html
+
+# Open on Linux/macOS
+xdg-open index.html # or open index.html
 ```
