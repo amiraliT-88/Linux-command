@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>🐧 Linux Commands Cheat Sheet</h1>
+  <h1>Linux Commands Cheat Sheet</h1>
   
-  **A clean, dark-themed HTML quick-reference guide covering essential Linux administration commands and CLI tools.**
+  <p><b>A clean, dark-themed HTML quick-reference guide covering essential Linux administration commands and CLI tools.</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -12,18 +12,18 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 A responsive single-page reference sheet designed for offline and online lookup of daily system administration commands:
 
-- 📁 **File & Directory Management:** `ls`, `chmod`, `chown`, `find`, `tar`, `grep`
-- ⚙️ **Process & Resource Monitoring:** `ps`, `top`, `htop`, `kill`, `systemctl`
-- 🌐 **Networking & Diagnostics:** `ip`, `netstat`, `curl`, `ss`, `ping`, `ufw`
-- 📦 **Package Management:** `apt`, `yum`, `pacman` essentials
+- **File & Directory Management:** `ls`, `chmod`, `chown`, `find`, `tar`, `grep`
+- **Process & Resource Monitoring:** `ps`, `top`, `htop`, `kill`, `systemctl`
+- **Networking & Diagnostics:** `ip`, `netstat`, `curl`, `ss`, `ping`, `ufw`
+- **Package Management:** `apt`, `yum`, `pacman` essentials
 
 ---
 
-## 🚀 How to View
+## How to View
 
 ### Local Usage
 Simply clone and open `index.html` in any web browser:
