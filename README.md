@@ -1,12 +1,32 @@
-# Linux Commands Cheat Sheet
+<div align="center">
+  # 🐧 Linux Commands Cheat Sheet
+  
+  **A clean, dark-themed HTML quick-reference guide covering essential Linux administration commands and CLI tools.**
 
-A clean, dark-themed HTML reference guide and cheat sheet covering essential Linux commands, flags, and utilities.
+  <p>
+    <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Theme-Dark%20Mode-1e1e1e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Format-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </p>
+</div>
 
-## Overview
-This reference guide organizes frequently used Linux commands into practical categories (file manipulation, system monitoring, permissions, networking, and package management) for quick offline/online lookup.
+---
 
-## How to Use
-Simply clone the repository and open `index.html` in your favorite web browser:
+## 📖 Overview
+
+A responsive single-page reference sheet designed for offline and online lookup of daily system administration commands:
+
+- 📁 **File & Directory Management:** `ls`, `chmod`, `chown`, `find`, `tar`, `grep`
+- ⚙️ **Process & Resource Monitoring:** `ps`, `top`, `htop`, `kill`, `systemctl`
+- 🌐 **Networking & Diagnostics:** `ip`, `netstat`, `curl`, `ss`, `ping`, `ufw`
+- 📦 **Package Management:** `apt`, `yum`, `pacman` essentials
+
+---
+
+## 🚀 How to View
+
+### Local Usage
+Simply clone and open `index.html` in any web browser:
 
 ```bash
 git clone https://github.com/amiraliT-88/Linux-command.git
