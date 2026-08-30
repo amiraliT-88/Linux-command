@@ -1,5 +1,5 @@
 <div align="center">
-  # 🐧 Linux Commands Cheat Sheet
+  <h1>🐧 Linux Commands Cheat Sheet</h1>
   
   **A clean, dark-themed HTML quick-reference guide covering essential Linux administration commands and CLI tools.**
 
